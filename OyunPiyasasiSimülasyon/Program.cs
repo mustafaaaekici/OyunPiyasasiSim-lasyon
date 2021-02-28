@@ -6,7 +6,7 @@ namespace OyunPiyasasiSimülasyon
     {
         static void Main(string[] args)
         {
-            Oyuncu oyuncu1 = new Oyuncu();
+            Oyuncu oyuncu1 = new Oyuncu(); 
             oyuncu1.Ad = "Mustafa";
             oyuncu1.Soyad = "EKİCİ";
             oyuncu1.TcNo = "123321";
